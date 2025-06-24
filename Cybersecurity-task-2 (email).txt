@@ -1,0 +1,13 @@
+From: security@paypaI.com
+Subject: Your Account Will Be Locked – Immediate Action Required!
+
+Dear Customer,
+
+We have detected unusual activity in your account. To avoid permanent suspension, you must verify your information within 24 hours.
+
+Click here to verify your account: https://paypal-security-alert.com/login
+
+Failure to act will result in immediate closure of your account.
+
+Regards,  
+PayPal Security Team
